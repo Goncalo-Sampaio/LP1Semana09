@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower1", "FilePower1\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower2", "FilePower2\FilePower2.csproj", "{D3A98336-583A-492D-B54A-0B24214B5703}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharSets", "CharSets\CharSets.csproj", "{FE2A45BF-9F9E-4A49-A7E9-00ED97C32AAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{D3A98336-583A-492D-B54A-0B24214B5703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A98336-583A-492D-B54A-0B24214B5703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A98336-583A-492D-B54A-0B24214B5703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2A45BF-9F9E-4A49-A7E9-00ED97C32AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2A45BF-9F9E-4A49-A7E9-00ED97C32AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2A45BF-9F9E-4A49-A7E9-00ED97C32AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2A45BF-9F9E-4A49-A7E9-00ED97C32AAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
